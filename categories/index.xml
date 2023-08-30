@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on HoShiauYun</title>
+    <link>https://hoshiauyun.github.io/categories/</link>
+    <description>Recent content in Categories on HoShiauYun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Aug 2023 10:07:47 +0600</lastBuildDate><atom:link href="https://hoshiauyun.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game Art</title>
+      <link>https://hoshiauyun.github.io/categories/game-art/</link>
+      <pubDate>Wed, 23 Aug 2023 10:07:47 +0600</pubDate>
+      
+      <guid>https://hoshiauyun.github.io/categories/game-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UIUX</title>
+      <link>https://hoshiauyun.github.io/categories/uiux/</link>
+      <pubDate>Wed, 23 Aug 2023 10:07:47 +0600</pubDate>
+      
+      <guid>https://hoshiauyun.github.io/categories/uiux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual and Graphic</title>
+      <link>https://hoshiauyun.github.io/categories/visual-and-graphic/</link>
+      <pubDate>Wed, 23 Aug 2023 10:07:47 +0600</pubDate>
+      
+      <guid>https://hoshiauyun.github.io/categories/visual-and-graphic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game on HoShiauYun</title>
+    <link>https://hoshiauyun.github.io/tags/game/</link>
+    <description>Recent content in Game on HoShiauYun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Aug 2023 10:07:47 +0600</lastBuildDate><atom:link href="https://hoshiauyun.github.io/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HamiVideo Figma Design System 創建</title>
+      <link>https://hoshiauyun.github.io/blog/hamivideo-design-system/</link>
+      <pubDate>Wed, 23 Aug 2023 10:07:47 +0600</pubDate>
+      
+      <guid>https://hoshiauyun.github.io/blog/hamivideo-design-system/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+    <item>
+      <title>iOS App 遊戲： 喚雨巫師 RainMaker 美術設計</title>
+      <link>https://hoshiauyun.github.io/blog/rainmaker/</link>
+      <pubDate>Wed, 23 Aug 2023 10:07:47 +0600</pubDate>
+      
+      <guid>https://hoshiauyun.github.io/blog/rainmaker/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+    <item>
+      <title>網頁設計</title>
+      <link>https://hoshiauyun.github.io/blog/webpage/</link>
+      <pubDate>Wed, 23 Aug 2023 10:07:47 +0600</pubDate>
+      
+      <guid>https://hoshiauyun.github.io/blog/webpage/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+    <item>
+      <title>視覺、平面設計</title>
+      <link>https://hoshiauyun.github.io/blog/visual-graphic/</link>
+      <pubDate>Wed, 23 Aug 2023 10:07:47 +0600</pubDate>
+      
+      <guid>https://hoshiauyun.github.io/blog/visual-graphic/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+  </channel>
+</rss>
