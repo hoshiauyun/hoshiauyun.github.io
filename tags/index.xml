@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Aug 2023 10:07:47 +0600</lastBuildDate><atom:link href="https://hoshiauyun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Game</title>
-      <link>https://hoshiauyun.github.io/tags/game/</link>
-      <pubDate>Wed, 23 Aug 2023 10:07:47 +0600</pubDate>
-      
-      <guid>https://hoshiauyun.github.io/tags/game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>New</title>
       <link>https://hoshiauyun.github.io/tags/new/</link>
       <pubDate>Wed, 23 Aug 2023 10:07:47 +0600</pubDate>
@@ -35,9 +26,27 @@
     </item>
     
     <item>
+      <title>Video</title>
+      <link>https://hoshiauyun.github.io/tags/video/</link>
+      <pubDate>Tue, 22 Aug 2023 10:07:47 +0600</pubDate>
+      
+      <guid>https://hoshiauyun.github.io/tags/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>https://hoshiauyun.github.io/tags/game/</link>
+      <pubDate>Mon, 21 Aug 2023 10:07:47 +0600</pubDate>
+      
+      <guid>https://hoshiauyun.github.io/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Photos</title>
       <link>https://hoshiauyun.github.io/tags/photos/</link>
-      <pubDate>Wed, 23 Aug 2023 10:07:47 +0600</pubDate>
+      <pubDate>Mon, 21 Aug 2023 10:07:47 +0600</pubDate>
       
       <guid>https://hoshiauyun.github.io/tags/photos/</guid>
       <description></description>
@@ -46,7 +55,7 @@
     <item>
       <title>Python</title>
       <link>https://hoshiauyun.github.io/tags/python/</link>
-      <pubDate>Wed, 23 Aug 2023 10:07:47 +0600</pubDate>
+      <pubDate>Mon, 21 Aug 2023 10:07:47 +0600</pubDate>
       
       <guid>https://hoshiauyun.github.io/tags/python/</guid>
       <description></description>
@@ -55,18 +64,9 @@
     <item>
       <title>React</title>
       <link>https://hoshiauyun.github.io/tags/react/</link>
-      <pubDate>Wed, 23 Aug 2023 10:07:47 +0600</pubDate>
+      <pubDate>Mon, 21 Aug 2023 10:07:47 +0600</pubDate>
       
       <guid>https://hoshiauyun.github.io/tags/react/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Video</title>
-      <link>https://hoshiauyun.github.io/tags/video/</link>
-      <pubDate>Wed, 23 Aug 2023 10:07:47 +0600</pubDate>
-      
-      <guid>https://hoshiauyun.github.io/tags/video/</guid>
       <description></description>
     </item>
     

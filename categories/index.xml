@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Aug 2023 10:07:47 +0600</lastBuildDate><atom:link href="https://hoshiauyun.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Game Art</title>
-      <link>https://hoshiauyun.github.io/categories/game-art/</link>
-      <pubDate>Wed, 23 Aug 2023 10:07:47 +0600</pubDate>
-      
-      <guid>https://hoshiauyun.github.io/categories/game-art/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>UIUX</title>
       <link>https://hoshiauyun.github.io/categories/uiux/</link>
       <pubDate>Wed, 23 Aug 2023 10:07:47 +0600</pubDate>
@@ -26,9 +17,18 @@
     </item>
     
     <item>
+      <title>Game Art</title>
+      <link>https://hoshiauyun.github.io/categories/game-art/</link>
+      <pubDate>Sun, 20 Aug 2023 10:07:47 +0600</pubDate>
+      
+      <guid>https://hoshiauyun.github.io/categories/game-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Visual and Graphic</title>
       <link>https://hoshiauyun.github.io/categories/visual-and-graphic/</link>
-      <pubDate>Wed, 23 Aug 2023 10:07:47 +0600</pubDate>
+      <pubDate>Sat, 19 Aug 2023 10:07:47 +0600</pubDate>
       
       <guid>https://hoshiauyun.github.io/categories/visual-and-graphic/</guid>
       <description></description>
