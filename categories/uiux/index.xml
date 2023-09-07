@@ -14,6 +14,7 @@
       
       <guid>https://hoshiauyun.github.io/blog/mod-homepage/</guid>
       <description>▍項目概況 01 |背景 MOD 是中華電信的影視內容平台（IPTV），擁有200萬名以上的⽤⼾，提供了約200多個頻道、獨家賽事Live 轉播及上1,000 部隨選影⾳。
+👉 MOD官網
 02 | 挑戰 優化MOD⾸⾴內容配置，提升不同年齡層用戶的操作體驗，促進廣告銷售與新增廣告版位。</description>
     </item>
     
@@ -23,7 +24,9 @@
       <pubDate>Tue, 22 Aug 2023 10:07:47 +0600</pubDate>
       
       <guid>https://hoshiauyun.github.io/blog/mod-vod/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <description>▍項目概況 01 | 目標：將現有5款產品合而為1 2021中華電信MOD推出新的訂閱計劃「影劇全享包」，成為MOD旗下超過100萬訂閱用戶的主力產品，此產品須將舊有用戶和新用戶整合至同一個服務產品裡，為本次的改版主軸。
+02 | 專案挑戰：需積極與產品團隊溝通協調 整合5個產品會影響到不同產品的使用者習慣，也會面臨的技術限制等，需積極與其他產品團隊溝通協調。
+03 | 角色與交付 在這個項目中，我和研究員與專案PM及產品PM合作，負責 UX 和 UI 設計流程與產出部分，從定義問題到交付最終設計給工程團隊。</description>
     </item>
     
     <item>
@@ -32,7 +35,7 @@
       <pubDate>Mon, 21 Aug 2023 10:07:47 +0600</pubDate>
       
       <guid>https://hoshiauyun.github.io/blog/hamivideo-designsystem/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <description></description>
     </item>
     
   </channel>
