@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Aug 2023 10:07:47 +0600</lastBuildDate><atom:link href="https://hoshiauyun.github.io/categories/uiux/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>MOD首頁：讓每個年齡層都可以輕鬆上手的入口</title>
+      <title>MOD首頁：讓每個年齡層都可以輕鬆上手的入口。</title>
       <link>https://hoshiauyun.github.io/blog/mod-homepage/</link>
       <pubDate>Wed, 23 Aug 2023 10:07:47 +0600</pubDate>
       
@@ -19,23 +19,32 @@
     </item>
     
     <item>
+      <title>HamiVideo Design System 創建</title>
+      <link>https://hoshiauyun.github.io/blog/hamivideo-designsystem/</link>
+      <pubDate>Mon, 21 Aug 2023 10:07:47 +0600</pubDate>
+      
+      <guid>https://hoshiauyun.github.io/blog/hamivideo-designsystem/</guid>
+      <description>2022 HamiVideo Design System建置 負責：Figma檔案建置（iOS-375、Web-1440、Web-375) 、Design System建置（Web-1440、Web-375、iOS-375、Android TV - 1920）</description>
+    </item>
+    
+    <item>
+      <title>MOD頻道節目表介面設計</title>
+      <link>https://hoshiauyun.github.io/blog/mod-epg/</link>
+      <pubDate>Sun, 20 Aug 2023 10:07:47 +0600</pubDate>
+      
+      <guid>https://hoshiauyun.github.io/blog/mod-epg/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+    <item>
       <title>MOD影劇全享包：整合新舊產品，幫助用戶輕鬆的觀影</title>
       <link>https://hoshiauyun.github.io/blog/mod-vod/</link>
-      <pubDate>Tue, 22 Aug 2023 10:07:47 +0600</pubDate>
+      <pubDate>Thu, 03 Aug 2023 10:07:47 +0600</pubDate>
       
       <guid>https://hoshiauyun.github.io/blog/mod-vod/</guid>
       <description>▍項目概況 01 | 目標：將現有5款產品合而為1 2021中華電信MOD推出新的訂閱計劃「影劇全享包」，成為MOD旗下超過100萬訂閱用戶的主力產品，此產品須將舊有用戶和新用戶整合至同一個服務產品裡，為本次的改版主軸。
 02 | 專案挑戰：需積極與產品團隊溝通協調 整合5個產品會影響到不同產品的使用者習慣，也會面臨的技術限制等，需積極與其他產品團隊溝通協調。
 03 | 角色與交付 在這個項目中，我和研究員與專案PM及產品PM合作，負責 UX 和 UI 設計流程與產出部分，從定義問題到交付最終設計給工程團隊。</description>
-    </item>
-    
-    <item>
-      <title>HamiVideo Figma Design System 創建</title>
-      <link>https://hoshiauyun.github.io/blog/hamivideo-designsystem/</link>
-      <pubDate>Mon, 21 Aug 2023 10:07:47 +0600</pubDate>
-      
-      <guid>https://hoshiauyun.github.io/blog/hamivideo-designsystem/</guid>
-      <description></description>
     </item>
     
   </channel>

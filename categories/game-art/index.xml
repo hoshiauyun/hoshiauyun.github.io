@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Game Art on HoShiauYun</title>
+    <title>Game art on HoShiauYun</title>
     <link>https://hoshiauyun.github.io/categories/game-art/</link>
-    <description>Recent content in Game Art on HoShiauYun</description>
+    <description>Recent content in Game art on HoShiauYun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Aug 2023 10:07:47 +0600</lastBuildDate><atom:link href="https://hoshiauyun.github.io/categories/game-art/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Aug 2023 10:07:47 +0600</lastBuildDate><atom:link href="https://hoshiauyun.github.io/categories/game-art/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>iOS App 遊戲： 喚雨巫師 RainMaker 美術設計</title>
+      <title>iOS App 遊戲： 喚雨巫師 RainMaker 美術、介面、場景設計</title>
       <link>https://hoshiauyun.github.io/blog/rainmaker/</link>
-      <pubDate>Sun, 20 Aug 2023 10:07:47 +0600</pubDate>
+      <pubDate>Wed, 02 Aug 2023 10:07:47 +0600</pubDate>
       
       <guid>https://hoshiauyun.github.io/blog/rainmaker/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+    <item>
+      <title>iOS App 遊戲： Go2School遊戲美術、介面設計</title>
+      <link>https://hoshiauyun.github.io/blog/go2school/</link>
+      <pubDate>Tue, 01 Aug 2023 10:07:47 +0600</pubDate>
+      
+      <guid>https://hoshiauyun.github.io/blog/go2school/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
