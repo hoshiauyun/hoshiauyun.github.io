@@ -132,7 +132,52 @@
     image.setAttribute("loading", "lazy");
   });
 });
+document.addEventListener("DOMContentLoaded", function() {
+  
+  window.addEventListener("scroll", function() {
+    
+    if (!isContentLoaded) {
+      
+      if (shouldLazyLoad()) {
+        
+        loadEntirePage();
+      }
+    }
+  });
+});
+
+var isContentLoaded = false;
+
+function shouldLazyLoad() {
+  
+  
+  var scrollPosition = window.scrollY + window.innerHeight;
+  var pageHeight = document.documentElement.scrollHeight;
+  return scrollPosition >= pageHeight;
+}
+
+function loadEntirePage() {
+  
+  
+  fetch("/your-page-url")
+    .then(function(response) {
+      return response.text();
+    })
+    .then(function(content) {
+      
+      var container = document.getElementById("lazy-loaded-content");
+      container.innerHTML = content;
+
+      
+      isContentLoaded = true;
+    })
+    .catch(function(error) {
+      console.error("無法載入網頁內容: " + error);
+    });
+}
+
 </script>
+<div id="lazy-loaded-content">
 <section class="section-sm">
   <div class="container">
     <div class="row">
@@ -304,7 +349,7 @@
     </div>
   </div>
 </section>
-
+</div>
 
 
 <footer class="text-capitalize">
